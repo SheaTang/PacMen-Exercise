@@ -6,14 +6,13 @@
 ![image](https://user-images.githubusercontent.com/101611557/169924036-e747e42d-1d64-4e68-be57-f3f924987815.png)
 
 # How to Run:
-<li>a
-<li>b
-<li>c
+<li>Download the file from this GitHub Repository e.g. Clone this Repository,
+<li>Open the index file in the console or your preferred code editor e.g. VS Code, 
+<li>Run the project.****
 
   
 # Road Map of Future Improvements: 
-<li>a
-<li>b
+<li>In the future I would add interactive functionality; via a full game,
 <li>As I continue to add skills to my developer toolbox I will return to this project and update it.
 
 
