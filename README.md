@@ -12,7 +12,6 @@
 <li>
 
   
-  
 # Road Map of Future Improvements: 
 <li>
 <li>
