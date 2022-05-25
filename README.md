@@ -17,6 +17,6 @@
 <li>As I continue to add skills to my developer toolbox I will return to this project and update it.
 
 
- # [License:]https://github.com/SheaTang/PacMen-Exercise/blob/master/LICENSE
+ # [License:](https://github.com/SheaTang/PacMen-Exercise/blob/master/LICENSE)
   
 ![image](https://user-images.githubusercontent.com/101611557/170178857-f8f55b85-604a-4a9f-94ff-b3867b3e1889.png)
