@@ -3,7 +3,7 @@
 
 
 # Description:
-The Factory for PackMen exercise, is a game that makes use of many callback functions: Where many PackMen are moving and bouncing off-of the walls, each at different speeds. The user,  can add as many pacMen  as they wish by clicking the button functions in the upper right corner `Add PacMan` and `Start Game` . The button function `Add PacMan` calls `makePac()` which returns and object that is pushed into the `pacMen` array via `pacMen.push`.  Each PacMan, keeps track of its position and velocity as it moves across the screen (within the shadow DOM) using the function `setToRandom` ; the `checkCollisions` function allows it to update its position within the DOM via `setTimeout’ every 20 milliseconds.  
+The Factory for PackMen exercise, is an interactive game that makes use of many callback functions: Where many PackMen are moving and bouncing off-of the walls, each at different speeds. The user,  can add as many pacMen  as they wish by clicking the button functions in the upper right corner `Add PacMan` and `Start Game` . The button function `Add PacMan` calls `makePac()` which returns and object that is pushed into the `pacMen` array via `pacMen.push`.  Each PacMan, keeps track of its position and velocity as it moves across the screen (within the shadow DOM) using the function `setToRandom` ; the `checkCollisions` function allows it to update its position within the DOM via `setTimeout’ every 20 milliseconds.  
 
 
 ![image](https://user-images.githubusercontent.com/101611557/169924036-e747e42d-1d64-4e68-be57-f3f924987815.png)
