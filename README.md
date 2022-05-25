@@ -11,7 +11,7 @@ The Factory for PackMen exercise, is an interactive game that makes use of many 
 # How to Run:
 <li>Download the file from this GitHub Repository e.g. Clone this Repository,
 <li>Open the index file in the console or your preferred code editor e.g. VS Code, 
-<li>Run the project.****
+<li>Run the project.
 
   
 # Road Map of Future Improvements: 
