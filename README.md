@@ -15,9 +15,7 @@
 # Road Map of Future Improvements: 
 <li>
 <li>
-<li>
-<li>
-<li>
+<li>As I continue to add skills to my developer toolbox I will return to this project and update it.
 
 
  # [License:]
